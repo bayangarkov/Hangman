@@ -1,0 +1,37 @@
+body {
+  /* background: linear-gradient(90deg, #203a43 35%, #2c5364 100%); */
+  background-color: #295f48 !important;
+}
+
+#myCanvas {
+  width: 100%;
+  margin-left: 10px;
+}
+
+.left {
+  /* background: burlywood; */
+  height: 400px;
+}
+.middle {
+  margin-top: 90px;
+}
+.tables {
+  margin-top: 50px;
+
+  /* background: green; */
+}
+.main-view {
+  margin-top: 50px;
+}
+
+.word {
+  /* width: 50px; */
+  /* height: auto; */
+  display: inline;
+  border-bottom: 2px solid #eeeeee;
+  margin: 5px;
+  text-align: center;
+  font-size: 30px;
+
+  /* visibility: visible; */
+}
